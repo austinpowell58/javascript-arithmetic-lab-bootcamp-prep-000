@@ -10,4 +10,6 @@ function multiply(a,b) {
 function divides(a,b) {
   return a /= b
 }
-function inc
+function inc(n) {
+  return n++
+  }
